@@ -1,0 +1,2 @@
+# Chopify
+Chopifies blender anims
